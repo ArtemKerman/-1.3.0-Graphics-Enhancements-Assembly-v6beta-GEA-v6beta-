@@ -1,7 +1,7 @@
-**Graphics Enhancements Assembly V6beta
-The first official beta version of the GEA!
+**Graphics Enhancements Assembly V6beta**
+**The first official beta version of the GEA!**
 
-*Changes:
+*Changes:*
 
 -Update for KSP 1.3.0.
 -Added the new cloudmaps for Kerbin, Duna, Laythe.
